@@ -1,6 +1,8 @@
-## Switch Emulation
+# Switch Emulation
 
-Requirements
+Guide for emulating Nintendo Switch Games on PC 
+
+## Requirements
 
 [Ryujinx](https://ci.appveyor.com/api/buildjobs/25pn9ptowlxamod8/artifacts/ryujinx-1.0.5000-win_x64.zip)
 
