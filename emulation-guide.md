@@ -27,11 +27,7 @@ Games (get them from the switchgames folder on the drive, base folder is the bas
 
 4. Copy the prod.keys from wherever you downloaded it to into the system folder inside the Ryujinx folder
 
-5. Close Ryujinx and reopen it, then select `Tools` then `Install Firmware` then `Install a firmware from XCI or ZIP`
-
-![image2](https://i.imgur.com/thfhpm0.png)
-
-6. Navigate to wherever you installed the firmware file, then select it in Ryujinx, click yes to the confirmation
+6. Close and reopen Ryujinx, then select `Tools` then `Install Firmware` then `Install firmware from a XCI or ZIP` Navigate to wherever you installed the firmware file, then select it in Ryujinx, click yes to the confirmation
 
 ![gif2](https://i.imgur.com/ygTR2YM.gif)
 
