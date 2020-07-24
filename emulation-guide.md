@@ -5,7 +5,7 @@ Unfortunately, since all of the games on the drive are in a special format that 
 
 ## Requirements
 
-[Ryujinx](https://ci.appveyor.com/api/buildjobs/25pn9ptowlxamod8/artifacts/ryujinx-1.0.5000-win_x64.zip)
+[Ryujinx](https://ryujinx.org/download) Download the Windows version
 
 [prod.keys](https://drive.google.com/file/d/1aTgSpLSSDsTUrKpWgCJLKlvUPO5Csxb9/view?usp=sharing) (log into the account that has access to the drive before clicking this link)
 
