@@ -13,7 +13,7 @@ Unfortunately, since all of the games on the drive are in a special format that 
 
 [nsZip (Windows only)](https://github.com/nicoboss/nsz/releases/download/3.1.1/nsz_v3.1.1_win64_portable.zip)
 
-Games (get them from the switchgames folder on the drive, base folder is the base game, updates are updates for the games, dlc is dlc for the games, use google drive's search to find the games, spreadsheet coming soon)
+[Games](https://docs.google.com/spreadsheets/d/1FvoYqPf8RY88rqEYYTcpgSlrDpTLqcXkolldkv9HbIo/edit?usp=sharing) (base is the base game, updates are updates for the games, dlc is dlc for the games)
 
 ## Setting up Ryujinx
 
