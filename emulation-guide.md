@@ -22,6 +22,27 @@ Games (get them from the switchgames folder on the drive, base folder is the bas
 2. Extract the ryujinx files from the file, and run `Ryujinx.exe`
 
 3. In Ryujinx, click on `File` then `Open Ryujinx Folder`
+
 ![image1](https://i.imgur.com/py1bM4X.png)
 
 4. Copy the prod.keys from wherever you downloaded it to inside the system folder inside the Ryujinx folder
+
+5. Close Ryujinx and reopen it, then select `Tools` then `Install Firmware` then `Install a firmware from XCI or ZIP`
+
+![image2](https://i.imgur.com/thfhpm0.png)
+
+6. Navigate to wherever you installed the firmware file, then select it in Ryujinx
+
+7. Confirm that you want to install Firmware 10.0.4
+
+## Using nsZip to convert the files to usuable files with Ryujinx
+
+1. Download nsZip from the link in the Requirements section and the game that you want to play
+
+2. Extract the files from the zip, then run `nsz.exe`
+
+3. Click `Select Input File/Folder`, then navigate to the game file you downloaded using the file browser
+
+![image3](https://i.imgur.com/UeM6iWy.png)
+
+4. After you select the game file, click `Select Output File/Folder` and select where you want the new game file to be, make sure it's somewhere you'll remember
