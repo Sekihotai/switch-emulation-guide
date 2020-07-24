@@ -46,3 +46,15 @@ Games (get them from the switchgames folder on the drive, base folder is the bas
 ![image3](https://i.imgur.com/UeM6iWy.png)
 
 4. After you select the game file, click `Select Output File/Folder` and select where you want the new game file to be, make sure it's somewhere you'll remember
+
+5. Wait. Depending on how big the game is supposed to be and how powerful your computer is, it could take minutes to hours to generate the game file.
+
+## Playing
+
+1. Now that the file is done, go back into Ryujinx and click `File`, then `Load Application from File`
+
+2. Go to where the file is and select it
+
+3. Ryujinx should automatically start the game
+
+4. That's it!
