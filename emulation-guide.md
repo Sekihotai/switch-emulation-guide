@@ -31,33 +31,31 @@ Games (get them from the switchgames folder on the drive, base folder is the bas
 
 ![image2](https://i.imgur.com/thfhpm0.png)
 
-6. Navigate to wherever you installed the firmware file, then select it in Ryujinx
+6. Navigate to wherever you installed the firmware file, then select it in Ryujinx, click yes to the confirmation
 
-7. Confirm that you want to install Firmware 10.0.4
+![gif2](https://i.imgur.com/ygTR2YM.gif)
+
+
 
 ## Using nsZip to convert the files to usuable files with Ryujinx
 
 1. Download nsZip from the link in the Requirements section and the game that you want to play
 
-2. Open File Explorer and click on the address bar on the top, then type `C:\Users\`
+2. Open File Explorer and click on the address bar on the top, then type `C:\Users\`, go into the folder with the name that matches the name of the user that you're currently logged into, make a folder named `.switch`, and copy the prod.keys file into this new folder.
 
-![gif1](https://i.imgur.com/awUPnT0.gif)
+![gif1](https://i.imgur.com/u7Suj9y.gif)
 
-3. Select the folder with the name that matches the name of the profile and make a folder inside named `.switch`
+3. Extract the files from the nsZip zip file, then run `nsz.exe`
 
-4. Copy the prod.keys file into the `.switch` directory
-
-5. Extract the files from the nsZip zip file, then run `nsz.exe`
-
-6. Click `Select Input File/Folder`, then navigate to the game file you downloaded using the file browser
+4. Click `Select Input File/Folder`, then navigate to the game file you downloaded using the file browser
 
 ![image3](https://i.imgur.com/UeM6iWy.png)
 
-7. After you select the game file, click `Select Output File/Folder` and select where you want the new game file to be, make sure it's somewhere you'll remember
+5. After you select the game file, click `Select Output File/Folder` and select where you want the new game file to be, make sure it's somewhere you'll remember
 
 ![image4](https://i.imgur.com/HAeCjOk.png)
 
-8. Wait. Depending on how big the game is supposed to be and how powerful your computer is, it could take minutes to hours to generate the game file.
+6. Wait. Depending on how big the game is supposed to be and how powerful your computer is, it could take minutes to hours to generate the game file.
 
 ## Playing
 
