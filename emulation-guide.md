@@ -17,4 +17,11 @@ Games (get them from the switchgames folder on the drive, base folder is the bas
 
 ## Setting up Ryujinx
 
-1. Download ryujinx, prod,keys, and the Nintendo Switch Firmware
+1. Download ryujinx, prod.keys, and the Nintendo Switch Firmware
+
+2. Extract the ryujinx files from the file, and run `Ryujinx.exe`
+
+3. In Ryujinx, click on `File` then `Open Ryujinx Folder`
+![image1](https://i.imgur.com/py1bM4X.png)
+
+4. Copy the prod.keys from wherever you downloaded it to inside the system folder inside the Ryujinx folder
