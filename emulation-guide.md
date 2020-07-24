@@ -39,19 +39,31 @@ Games (get them from the switchgames folder on the drive, base folder is the bas
 
 1. Download nsZip from the link in the Requirements section and the game that you want to play
 
-2. Extract the files from the zip, then run `nsz.exe`
+2. Open File Explorer and click on the address bar on the top, then type `C:\Users\`
 
-3. Click `Select Input File/Folder`, then navigate to the game file you downloaded using the file browser
+![gif1](https://i.imgur.com/awUPnT0.gif)
+
+3. Select the folder with the name that matches the name of the profile and make a folder inside named `.switch`
+
+4. Copy the prod.keys file into the `.switch` directory
+
+5. Extract the files from the nsZip zip file, then run `nsz.exe`
+
+6. Click `Select Input File/Folder`, then navigate to the game file you downloaded using the file browser
 
 ![image3](https://i.imgur.com/UeM6iWy.png)
 
-4. After you select the game file, click `Select Output File/Folder` and select where you want the new game file to be, make sure it's somewhere you'll remember
+7. After you select the game file, click `Select Output File/Folder` and select where you want the new game file to be, make sure it's somewhere you'll remember
 
-5. Wait. Depending on how big the game is supposed to be and how powerful your computer is, it could take minutes to hours to generate the game file.
+![image4](https://i.imgur.com/HAeCjOk.png)
+
+8. Wait. Depending on how big the game is supposed to be and how powerful your computer is, it could take minutes to hours to generate the game file.
 
 ## Playing
 
 1. Now that the file is done, go back into Ryujinx and click `File`, then `Load Application from File`
+
+![image5](https://i.imgur.com/sSdDwbT.png)
 
 2. Go to where the file is and select it
 
