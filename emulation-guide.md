@@ -25,7 +25,7 @@ Unfortunately, since all of the games on the drive are in a special format that 
 
 ![gif4](https://i.imgur.com/xcJbmfy.gif)
 
-6. Close and reopen Ryujinx, then select `Tools` then `Install Firmware` then `Install firmware from a XCI or ZIP` Navigate to wherever you installed the firmware file, then select it in Ryujinx, click yes to the confirmation
+4. Close and reopen Ryujinx, then select `Tools` then `Install Firmware` then `Install firmware from a XCI or ZIP` Navigate to wherever you installed the firmware file, then select it in Ryujinx, click yes to the confirmation
 
 ![gif2](https://i.imgur.com/ygTR2YM.gif)
 
