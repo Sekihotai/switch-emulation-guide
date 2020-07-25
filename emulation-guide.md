@@ -21,17 +21,13 @@ Unfortunately, since all of the games on the drive are in a special format that 
 
 2. Extract the ryujinx files from the file, and run `Ryujinx.exe`
 
-3. In Ryujinx, click on `File` then `Open Ryujinx Folder`
+3. In Ryujinx, click on `File` then `Open Ryujinx Folder`, then copy the prod.keys file into the system folder
 
-![image1](https://i.imgur.com/py1bM4X.png)
-
-4. Copy the prod.keys from wherever you downloaded it to into the system folder inside the Ryujinx folder
+![gif4](https://i.imgur.com/xcJbmfy.gif)
 
 6. Close and reopen Ryujinx, then select `Tools` then `Install Firmware` then `Install firmware from a XCI or ZIP` Navigate to wherever you installed the firmware file, then select it in Ryujinx, click yes to the confirmation
 
 ![gif2](https://i.imgur.com/ygTR2YM.gif)
-
-
 
 ## Using nsZip to convert the files to usuable files with Ryujinx
 
