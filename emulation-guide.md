@@ -60,3 +60,5 @@ Unfortunately, since all of the games on the drive are in a special format that 
 3. Ryujinx should automatically start the game
 
 4. That's it!
+
+**Frequently check for Ryujinx updates by selecting `Help`, then `Check for Updates`**
