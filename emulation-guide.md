@@ -13,7 +13,7 @@ Unfortunately, since all of the games on the drive are in a special format that 
 
 [nsZip](https://github.com/nicoboss/nsz/releases/download/3.1.1/nsz_v3.1.1_win64_portable.zip) (Windows only)
 
-[Games](https://peakshop.123bluestacks123bluestacks.workers.dev) (base is the base game, updates are updates for the games, dlc is dlc for the games)
+[Games](https://bit.ly/peakstash) Powered by [rclone](https://rclone.org/), [Cloudflare workers](https://www.cloudflare.com/), and [goindex](https://github.com/alx-xlx/goindex)
 
 ## Setting up Ryujinx
 
