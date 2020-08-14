@@ -13,7 +13,7 @@ Unfortunately, since all of the games on the drive are in a special format that 
 
 [nsZip](https://github.com/nicoboss/nsz/releases/download/3.1.1/nsz_v3.1.1_win64_portable.zip) (Windows only)
 
-[Games](https://darkmode.123bluestacks123bluestacks.workers.dev) (better link, has dark mode, search features, and a mirror, but [this one](httpsL//bit.ly/peakstash) has bulk loading, which is slower but is better in some situations) Powered by [rclone](https://rclone.org/), [Cloudflare workers](https://www.cloudflare.com/), and [goindex](https://github.com/alx-xlx/goindex)
+[Games](https://darkmode.123bluestacks123bluestacks.workers.dev) (this one is the recommended version, has dark mode, search features, and a mirror, but [this one](httpsL//bit.ly/peakstash) has bulk loading, which is slower but is better in some situations) Both are powered by [rclone](https://rclone.org/), [Cloudflare workers](https://www.cloudflare.com/), and [goindex](https://github.com/alx-xlx/goindex)
 
 ## Setting up Ryujinx
 
